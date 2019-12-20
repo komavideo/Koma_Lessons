@@ -1,6 +1,10 @@
 【小马技术】我的课程计划
 =====================
 
+## Youtube视频讲解
+
+https://youtu.be/g2Fvo02K7xw
+
 ## 制作中
 
 + KomaKnowledge(小马知识库)
